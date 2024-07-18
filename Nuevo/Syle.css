@@ -1,0 +1,15 @@
+@import url();
+:root {
+    --nombre: #0000;
+    --gray: #0000;
+
+
+
+
+
+}
+
+
+body{
+    background-color: var(--gray);
+}
