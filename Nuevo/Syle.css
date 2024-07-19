@@ -1,15 +1,10 @@
 @import url();
+
 :root {
-    --nombre: #0000;
-    --gray: #0000;
-
-
-
-
-
+    --purple: #5D67FB;
+    --gray: #EFF2F5;
+    --black: #414F60;
+    --blue: #8FBFF1;
+    --white: #fff;
 }
 
-
-body{
-    background-color: var(--gray);
-}
